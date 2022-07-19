@@ -1,0 +1,26 @@
+[
+    {
+        "id": 4,
+        "firstname": "rishabh",
+        "lastname": "pant",
+        "username": "rp17"
+    },
+    {
+        "id": 1,
+        "firstname": "rohit",
+        "lastname": "sharma",
+        "username": "hitman"
+    },
+    {
+        "id": 2,
+        "firstname": "virat",
+        "lastname": "kohli",
+        "username": "vk18"
+    },
+    {
+        "id": 5,
+        "firstname": "alex",
+        "lastname": "benjamin",
+        "username": "alexbenj"
+    }
+]
